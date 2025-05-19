@@ -69,6 +69,16 @@ Hotel booking system with filters and booking flows.
 
 ---
 
+## 🗣️ What People Say
+
+> "Ahmad helped us scale our travel booking app with clean React code and well-integrated Laravel APIs."  
+> **Mahmood Ahmad**, Founder, Trektoo
+
+> "Ahmad built a robust laundry management system with advanced admin features and real-time tracking."  
+> **Suleman Abrar**, App Developer, LaundryDay
+
+---
+
 ## 📬 Get in Touch
 
 - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
