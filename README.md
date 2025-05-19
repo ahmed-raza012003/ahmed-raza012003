@@ -10,6 +10,8 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 ## 🛠️ Tech Stack
 
+<div style="background-color: #2A2A2A; padding: 15px; border-radius: 5px;">
+
 **Frontend**  
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
@@ -23,11 +25,11 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 **Backend & Database**  
 <p align="left">
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="laravel" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869024-1583148.png" alt="aws" width="40" height="40"/></a>
 </p>
 
 **Tools & Other**  
@@ -35,6 +37,8 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
 </p>
+
+</div>
 
 ---
 
