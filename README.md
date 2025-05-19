@@ -4,47 +4,36 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 🌟 **What I Do**: Backend architecture, API development, AI chatbots, and responsive frontends.  
 📍 **Based in**: Rahim Yar Khan, Pakistan  
-🔗 **Portfolio**: [https://ahmed-raza-portfolio-sigma.vercel.app/](https://ahmed-raza-portfolio-sigma.vercel.app/)  
+🔗 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)  
-![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)  
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)  
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)  
-![Three.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg)  
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
-![Material UI](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/materialui.svg)
+![HTML5](https://skill-icons.dev/icons?i=html) ![CSS3](https://skill-icons.dev/icons?i=css) ![JavaScript](https://skill-icons.dev/icons?i=js) ![React](https://skill-icons.dev/icons?i=react) ![Next.js](https://skill-icons.dev/icons?i=nextjs)  
+![Laravel](https://skill-icons.dev/icons?i=laravel) ![PHP](https://skill-icons.dev/icons?i=php) ![Python](https://skill-icons.dev/icons?i=python) ![MySQL](https://skill-icons.dev/icons?i=mysql) ![AWS](https://skill-icons.dev/icons?i=aws)  
+![Tailwind CSS](https://skill-icons.dev/icons?i=tailwind) ![Three.js](https://skill-icons.dev/icons?i=threejs) ![GitHub](https://skill-icons.dev/icons?i=github) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [CaseWise AI Law Firm](https://github.com/ahmed-raza012003)
+### [CaseWise AI Law Firm](https://github.com/)
 AI-powered legal platform with chatbot and lawyer-case matching.  
 **Tech**: Laravel, React, Python, MySQL, Machine Learning  
 ![CaseWise Preview](https://via.placeholder.com/300x150?text=CaseWise+AI+Law+Firm)
 
-### [LaundryDay Admin Panel](https://github.com/ahmed-raza012003)
+### [LaundryDay Admin Panel](https://github.com/)
 Laundry management system with real-time tracking and subscriptions.  
 **Tech**: Laravel, JavaScript, Google Maps, Spatie, Breeze  
 ![LaundryDay Preview](https://via.placeholder.com/300x150?text=LaundryDay+Admin+Panel)
 
-### [Trektoo Hotel Booking Module](https://github.com/ahmed-raza012003)
+### [Trektoo Hotel Booking Module](https://github.com/)
 Hotel booking system with filters and booking flows.  
 **Tech**: Laravel, React, Next.js, MySQL  
 ![Trektoo Preview](https://via.placeholder.com/300x150?text=Trektoo+Hotel+Booking)
 
-*More projects: [IT Work Center Website](https://github.com/ahmed-raza012003), [HRM System](https://github.com/ahmed-raza012003), [Multi-Tenant Church Site](https://github.com/ahmed-raza012003)*
+*More projects: [IT Work Center Website](https://github.com/), [HRM System](https://github.com/), [Multi-Tenant Church Site](https://github.com/)*
 
 ---
 
@@ -71,8 +60,8 @@ Hotel booking system with filters and booking flows.
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-raza012003&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza012003&layout=compact&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical)
 
 ---
 
@@ -91,7 +80,7 @@ Hotel booking system with filters and booking flows.
 - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/ahmed-raza](https://linkedin.com/in/ahmed-raza)  
 - 🐦 **Twitter/X**: [twitter.com/ahmedraza](https://x.com/ahmedraza)  
-- 🌐 **Portfolio**: [https://ahmed-raza-portfolio-sigma.vercel.app/](https://ahmed-raza-portfolio-sigma.vercel.app/)
+- 🌐 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)
 
 ---
 
