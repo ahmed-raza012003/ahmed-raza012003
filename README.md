@@ -53,9 +53,8 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 ## 📬 Get in Touch
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/ahmed-raza](https://linkedin.com/in/ahmed-raza)  
-- 🐦 **Twitter/X**: [twitter.com/ahmedraza](https://x.com/ahmedraza)  
+- 📧 **Email**: [your.email@example.com](ahmedraza01272003@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/ahmed-raza](https://www.linkedin.com/in/ahmed-raza-b3a67b249/)   
 - 🌐 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)
 
 ---
