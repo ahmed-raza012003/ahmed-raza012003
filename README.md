@@ -10,30 +10,30 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://skill-icons.dev/icons?i=html&perline=5) ![CSS3](https://skill-icons.dev/icons?i=css&perline=5) ![JavaScript](https://skill-icons.dev/icons?i=js&perline=5) ![React](https://skill-icons.dev/icons?i=react&perline=5) ![Next.js](https://skill-icons.dev/icons?i=nextjs&perline=5)  
-![Laravel](https://skill-icons.dev/icons?i=laravel&perline=5) ![PHP](https://skill-icons.dev/icons?i=php&perline=5) ![Python](https://skill-icons.dev/icons?i=python&perline=5) ![MySQL](https://skill-icons.dev/icons?i=mysql&perline=5) ![AWS](https://skill-icons.dev/icons?i=aws&perline=5)  
-![Tailwind CSS](https://skill-icons.dev/icons?i=tailwind&perline=5) ![Three.js](https://skill-icons.dev/icons?i=threejs&perline=5) ![GitHub](https://skill-icons.dev/icons?i=github&perline=5) ![Material UI](https://img.shields.io/badge/-Material%20UI-757575?logo=materialui&style=flat-square)
+![HTML5](https://skill-icons.dev/icons?i=html) ![CSS3](https://skill-icons.dev/icons?i=css) ![JavaScript](https://skill-icons.dev/icons?i=js) ![React](https://skill-icons.dev/icons?i=react) ![Next.js](https://skill-icons.dev/icons?i=nextjs)  
+![Laravel](https://skill-icons.dev/icons?i=laravel) ![PHP](https://skill-icons.dev/icons?i=php) ![Python](https://skill-icons.dev/icons?i=python) ![MySQL](https://skill-icons.dev/icons?i=mysql) ![AWS](https://skill-icons.dev/icons?i=aws)  
+![Tailwind CSS](https://skill-icons.dev/icons?i=tailwind) ![Three.js](https://skill-icons.dev/icons?i=threejs) ![GitHub](https://skill-icons.dev/icons?i=github) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [CaseWise AI Law Firm](https://github.com/ahmed-raza012003/casewise-ai-law-firm)
+### [CaseWise AI Law Firm](https://github.com/)
 AI-powered legal platform with chatbot and lawyer-case matching.  
 **Tech**: Laravel, React, Python, MySQL, Machine Learning  
 ![CaseWise Preview](https://via.placeholder.com/300x150?text=CaseWise+AI+Law+Firm)
 
-### [LaundryDay Admin Panel](https://github.com/ahmed-raza012003/laundryday-admin-panel)
+### [LaundryDay Admin Panel](https://github.com/)
 Laundry management system with real-time tracking and subscriptions.  
 **Tech**: Laravel, JavaScript, Google Maps, Spatie, Breeze  
 ![LaundryDay Preview](https://via.placeholder.com/300x150?text=LaundryDay+Admin+Panel)
 
-### [Trektoo Hotel Booking Module](https://github.com/ahmed-raza012003/trektoo-hotel-booking)
+### [Trektoo Hotel Booking Module](https://github.com/)
 Hotel booking system with filters and booking flows.  
 **Tech**: Laravel, React, Next.js, MySQL  
 ![Trektoo Preview](https://via.placeholder.com/300x150?text=Trektoo+Hotel+Booking)
 
-*More projects: [IT Work Center Website](https://github.com/ahmed-raza012003/it-work-center-website), [HRM System](https://github.com/ahmed-raza012003/hrm-systemI-system), [Multi-Tenant Church Site](https://github.com/ahmed-raza012003/multi-tenant-church-site)*
+*More projects: [IT Work Center Website](https://github.com/), [HRM System](https://github.com/), [Multi-Tenant Church Site](https://github.com/)*
 
 ---
 
@@ -60,8 +60,8 @@ Hotel booking system with filters and booking flows.
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-raza012003&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza012003&layout=compact&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical)
 
 ---
 
