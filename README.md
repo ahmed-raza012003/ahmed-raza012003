@@ -10,30 +10,49 @@ I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://skill-icons.dev/icons?i=html) ![CSS3](https://skill-icons.dev/icons?i=css) ![JavaScript](https://skill-icons.dev/icons?i=js) ![React](https://skill-icons.dev/icons?i=react) ![Next.js](https://skill-icons.dev/icons?i=nextjs)  
-![Laravel](https://skill-icons.dev/icons?i=laravel) ![PHP](https://skill-icons.dev/icons?i=php) ![Python](https://skill-icons.dev/icons?i=python) ![MySQL](https://skill-icons.dev/icons?i=mysql) ![AWS](https://skill-icons.dev/icons?i=aws)  
-![Tailwind CSS](https://skill-icons.dev/icons?i=tailwind) ![Three.js](https://skill-icons.dev/icons?i=threejs) ![GitHub](https://skill-icons.dev/icons?i=github) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+**Frontend**  
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
+</p>
+
+**Backend & Database**  
+<p align="left">
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+</p>
+
+**Tools & Other**  
+<p align="left">
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [CaseWise AI Law Firm](https://github.com/)
+### [CaseWise AI Law Firm](https://github.com/ahmed-raza012003/casewise-ai-law-firm)
 AI-powered legal platform with chatbot and lawyer-case matching.  
 **Tech**: Laravel, React, Python, MySQL, Machine Learning  
-![CaseWise Preview](https://via.placeholder.com/300x150?text=CaseWise+AI+Law+Firm)
 
-### [LaundryDay Admin Panel](https://github.com/)
+### [LaundryDay Admin Panel](https://github.com/ahmed-raza012003/laundryday-admin-panel)
 Laundry management system with real-time tracking and subscriptions.  
 **Tech**: Laravel, JavaScript, Google Maps, Spatie, Breeze  
-![LaundryDay Preview](https://via.placeholder.com/300x150?text=LaundryDay+Admin+Panel)
 
-### [Trektoo Hotel Booking Module](https://github.com/)
+### [Trektoo Hotel Booking Module](https://github.com/ahmed-raza012003/trektoo-hotel-booking)
 Hotel booking system with filters and booking flows.  
 **Tech**: Laravel, React, Next.js, MySQL  
-![Trektoo Preview](https://via.placeholder.com/300x150?text=Trektoo+Hotel+Booking)
 
-*More projects: [IT Work Center Website](https://github.com/), [HRM System](https://github.com/), [Multi-Tenant Church Site](https://github.com/)*
+*More projects: [IT Work Center Website](https://github.com/ahmed-raza012003/it-work-center-website), [HRM System](https://github.com/ahmed-raza012003/hrm-systemI-system), [Multi-Tenant Church Site](https://github.com/ahmed-raza012003/multi-tenant-church-site)*
 
 ---
 
@@ -60,18 +79,10 @@ Hotel booking system with filters and booking flows.
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical)
-
----
-
-## 🗣️ What People Say
-
-> "Ahmad helped us scale our travel booking app with clean React code and well-integrated Laravel APIs."  
-> **Mahmood Ahmad**, Founder, Trektoo
-
-> "Ahmad built a robust laundry management system with advanced admin features and real-time tracking."  
-> **Suleman Abrar**, App Developer, LaundryDay
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-raza012003&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza012003&layout=compact&theme=radical)  
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-raza012003&theme=radical)  
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ahmed-raza012003&theme=radical)
 
 ---
 
