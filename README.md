@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Raza
 
-I'm a **Full-Stack Web Developer** and **AI Chatbot Developer** passionate about building scalable, user-friendly applications with **Laravel**, **React**, and **Python**. I specialize in crafting SaaS platforms, enterprise systems, and AI-driven solutions. Currently, I'm working on innovative projects at **Devloop Technologies**, **Trektoo**, and **LaundryDay**.
+I'm a **Full-Stack Web Developer** passionate about building scalable, user-friendly applications with **Laravel**, **React**, and **Python**. I specialize in crafting SaaS platforms, enterprise systems, and AI-driven solutions. Currently, I'm working on innovative projects at **Devloop Technologies**, **Trektoo**, and **LaundryDay**.
 
 🌟 **What I Do**: Backend architecture, API development, AI chatbots, and responsive frontends.  
 📍 **Based in**: Rahim Yar Khan, Pakistan  
