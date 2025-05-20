@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ahmed Raza
 
-I'm a **Full-Stack Web Developer** passionate about building scalable, user-friendly applications with **Laravel**, **React**, and **Python**. I specialize in crafting SaaS platforms, enterprise systems, and AI-driven solutions. Currently, I'm working on innovative projects at **Devloop Technologies**, **Trektoo**, and **LaundryDay**.
+I'm a **Full-Stack Web Developer** passionate about building scalable, user-friendly applications using **Laravel**, **React**, and **Python**. I specialize in crafting SaaS platforms, enterprise systems, and AI-driven solutions. Currently, I'm working on innovative projects at **Devloop Technologies**, **Trektoo**, and **LaundryDay**.
 
 🌟 **What I Do**: Backend architecture, API development, AI chatbots, and responsive frontends.  
 📍 **Based in**: Rahim Yar Khan, Pakistan  
-🔗 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)  
+🔗 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)
 
 ---
 
@@ -12,7 +12,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, user-frie
 
 <div style="background-color: #2A2A2A; padding: 15px; border-radius: 5px;">
 
-**Frontend**  
+### **Frontend**  
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
@@ -23,7 +23,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, user-frie
 <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
 </p>
 
-**Backend & Database**  
+### **Backend & Database**  
 <p align="left">
 <a href="https://laravel.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="laravel" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
@@ -32,7 +32,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, user-frie
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869024-1583148.png" alt="aws" width="40" height="40"/></a>
 </p>
 
-**Tools & Other**  
+### **Tools & Other**  
 <p align="left">
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
@@ -47,14 +47,15 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, user-frie
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-raza012003&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza012003&layout=compact&theme=radical)  
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-raza012003&theme=radical)  
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ahmed-raza012003&theme=radical)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ahmed-raza012003&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-raza012003&label=Profile%20Views&color=ff69b4&style=flat)
 
 ---
 
 ## 📬 Get in Touch
 
 - 📧 **Email**: [ahmedraza01272003@gmail.com](mailto:ahmedraza01272003@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/ahmed-raza](https://www.linkedin.com/in/ahmed-raza-b3a67b249/)   
+- 🔗 **LinkedIn**: [linkedin.com/in/ahmed-raza](https://www.linkedin.com/in/ahmed-raza-b3a67b249/)  
 - 🌐 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)
 
 ---
