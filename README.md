@@ -48,7 +48,6 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, user-frie
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza012003&layout=compact&theme=radical)  
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-raza012003&theme=radical)  
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ahmed-raza012003&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed-raza012003&label=Profile%20Views&color=ff69b4&style=flat)
 
 ---
 
