@@ -3,7 +3,7 @@
 I'm a **Full-Stack Web Developer** passionate about building scalable, user-friendly applications using **Laravel**, **React**, and **Python**. I specialize in crafting SaaS platforms, enterprise systems, and AI-driven solutions. Currently, I'm working on innovative projects at **Devloop Technologies**, **Trektoo**, and **LaundryDay**.
 
 🌟 **What I Do**: Backend architecture, API development, AI chatbots, and responsive frontends.  
-📍 **Based in**: Rahim Yar Khan, Pakistan  
+📍 **Based in**: Islamabad, Pakistan  
 🔗 **Portfolio**: [ahmed-raza-portfolio-sigma.vercel.app](https://ahmed-raza-portfolio-sigma.vercel.app/)
 
 ---
